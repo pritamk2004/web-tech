@@ -1,0 +1,75 @@
+/* Utility Classes */
+.h-primary {
+  font-family: 'Bree Serif', serif;
+  font-size: 3.8rem;
+  padding: 12px;
+  text-shadow: 4px 5px lightgray;
+}
+
+.h-secondary {
+  font-family: 'Bree Serif', serif;
+  font-size: 2.3rem;
+  padding: 12px;
+}
+
+strong {
+  font-size: 4rem;
+}
+
+.style-remove{
+  text-decoration: none;
+  color: white;
+}
+.span {
+  color: orange;
+  font-size: 1.2rem;
+}
+.btn {
+  color: white;
+  background-color: orange;
+  border: 3px solid darkorange;
+  border-radius: 3px;
+  float: left;
+  padding: 5px 60px;
+  margin: 5px 0px 0px 0px;
+  font-size: 1.5rem;
+  font-family: 'Bree Serif', serif;
+}
+.btn-div {
+  transition: 0.4s ease;
+}
+.btn-div:hover {
+  transform: scale(0.8);
+}
+
+.order {
+  color: whitesmoke;
+  text-decoration: none;
+}
+
+.btn2 {
+  display: flex;
+  width: 100%;
+  text-align: center;
+}
+
+.btn2 input {
+  margin: 0px 40px;
+  font-family: 'Bree Serif', serif;
+}
+
+.btn:hover,
+.btn a:hover,
+.btn2 :hover{
+  cursor: pointer;
+}
+
+#submit {
+  border-color: #FD8A0E;
+  background-color: #F29A00;
+  color: floralwhite;
+}
+
+.center {
+  text-align: center;
+}
